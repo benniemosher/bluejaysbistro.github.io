@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Blue Jays Bistro
-email: your-email@example.com
+email: bluejaysbistro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A culinary experience; coming soon!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,6 +27,17 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  # - jekyll-archives
+  - jekyll-minifier
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
+feed:
+  tags: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
