@@ -31,12 +31,13 @@ please allow 10 minutes per waffle! We look forward to serving you!
   <li>Strawberries, Banana & Nutella</li>
   <li>Nutella & Peanut Butter</li>
   <li>Peanut Butter & Banana</li>
+  <li>Peanut Butter & Jelly</li>
 </ul>
 
 ### SPECIALS - $17.00
 
 <ul>
-  <li>Strawberry Cheesecake</li>
+  <li>Caramel Apple</li>
   <li>Pumpkin Pie</li>
 </ul>
 
