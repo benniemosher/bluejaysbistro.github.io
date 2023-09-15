@@ -40,6 +40,13 @@ please allow 10 minutes per waffle! We look forward to serving you!
   <li>Pumpkin Pie</li>
 </ul>
 
+### DRINKS
+
+<ul>
+  <li>Bottled Water - $1.00</li>
+  <li>Capri Sun - $2.00</li>
+</ul>
+
 ## Find Us Online!
 
 <ul class="social">
