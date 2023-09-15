@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QR
+title: Welcome to Blue Jay's Bistro!
 permalink: /qr/
 ---
 
