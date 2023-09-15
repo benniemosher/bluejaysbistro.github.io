@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
-  {%- include head.html -%}
+{%- include head.html -%}
 
-  <body>
+<body>
 
-    <main>
-      <section>
-        <img src="/assets/images/logo-white.svg" alt="Blue Jays Bistro: A Culinary Experience" width="843" height="555" />
-      </section>
-    </main>
+  <main>
+    <section>
+      {{ content }}
+    </section>
+  </main>
 
-  </body>
+</body>
 
 </html>
