@@ -19,7 +19,6 @@ please allow 10 minutes per waffle! We look forward to serving you!
 <ul>
   <li>Pesto, Cheese, & Tomato</li>
   <li>Turkey, Pesto, Cheese, & Tomato</li>
-  <li>Pepperoni & Mozarella</li>
   <li>Artichoke, Jalapeño, & Cream Cheese</li>
   <li>Ham & Cheese</li>
   <li>Turkey, Ham & Cheese</li>
