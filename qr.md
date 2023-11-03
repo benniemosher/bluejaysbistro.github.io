@@ -38,8 +38,8 @@ please allow 10 minutes per waffle! We look forward to serving you!
 ### SPECIALS - $17.00
 
 <ul>
-  <li>Caramel Apple</li>
-  <li>Pumpkin Pie</li>
+  <li>Chocolate Waffle with PB, Banana, & Nutella</li>
+  <li>Chocolate Waffle with any Sweet Ingredients</li>
 </ul>
 
 ### DRINKS
