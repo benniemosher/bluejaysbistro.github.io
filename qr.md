@@ -14,31 +14,26 @@ please allow 10 minutes per waffle! We look forward to serving you!
 
 ## Menu
 
-### SAVORY - $15.00
+### SAVORY
 
 <ul>
-  <li>Pesto, Cheese, & Tomato</li>
-  <li>Turkey, Pesto, Cheese, & Tomato</li>
-  <li>Artichoke, Jalapeño, & Cream Cheese</li>
-  <li>Ham & Cheese</li>
-  <li>Turkey, Ham & Cheese</li>
+  <li>Pesto, Cheese, & Tomato - $12.00</li>
+  <li>Turkey, Pesto, Cheese, & Tomato - $14.00</li>
+  <li>Artichoke, Jalapeño, & Cream Cheese - $12.00</li>
+  <li>Ham & Cheese - $14.00</li>
+  <li>Turkey, Ham & Cheese - $14.00</li>
 </ul>
 
-### SWEET - $15.00
+### SWEET
 
 <ul>
-  <li>Fresh Strawberries</li>
-  <li>Strawberries, Banana & Nutella</li>
-  <li>Nutella & Peanut Butter</li>
-  <li>Peanut Butter & Banana</li>
-  <li>Peanut Butter & Jelly</li>
-</ul>
-
-### SPECIALS - $17.00
-
-<ul>
-  <li>Chocolate Waffle with PB, Banana, & Nutella</li>
-  <li>Chocolate Waffle with any Sweet Ingredients</li>
+  <li>Strawberries - $12.00</li>
+  <li>Strawberries, Banana & Nutella - $12.00</li>
+  <li>Nutella & Peanut Butter - $12.00</li>
+  <li>Peanut Butter & Banana - $12.00</li>
+  <li>Peanut Butter & Jelly - $12.00</li>
+  <li>Plain - $10.00</li>
+  <li>Chocolate Waffle with any ingredients - $14.00</li>
 </ul>
 
 ### DRINKS
