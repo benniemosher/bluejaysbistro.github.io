@@ -6,38 +6,38 @@ permalink: /
 
 <img src="/assets/images/logo-white.svg" alt="Blue Jays Bistro: A Culinary Experience" height="200" class="logo" />
 
-## Tonight we are at Benjamin Eaton Elementary School from 5 PM to 7 PM!
+## Tonight we are at Eaton Recreational Center from 5 PM to 8:30 PM!
+
+1675 3rd St
+Eaton, CO 80615
 
 # Welcome to Blue Jays Bistro!
 
-We freshly prepare Gourmet Belgian Stuffed Waffles! They are a 2 to 3 inch
-Belgian waffle stuffed with your ingredients inside. Since these are freshly made,
-please allow 10 minutes to prepare! We look forward to serving you!
+We freshly prepare Gourmet Belgian Stuffed Waffles! They are a 3 inch thick
+and 6 inches in diameter Belgian waffle stuffed with your ingredients inside.
+Since these are freshly made, please allow 10 minutes to prepare! We look
+forward to serving you!
 
 ## Menu
 
-### SPECIAL
+### SAVORY - $15.00
 
-- Ham & Pineapple - $15.00
+- Ham & Cheese
+- Turkey, Ham & Cheese
+- Ham, Cheese & Pineapple
+- Artichoke Jalapeño
+- Four Cheeses
 
-### SAVORY
+### SWEET - $15.00
 
-- Four Cheeses - $15.00
-- Turkey, Pesto, Cheese, & Tomato - $15.00
-- Pesto, Cheese & Tomato - $15.00
-- Turkey, Ham & Cheese - $15.00
-- Turkey & Cheese - $15.00
-- Ham & Cheese - $15.00
-- Jalapaneo, Artichoke, & Cream Cheese - $15.00
-
-### SWEET
-
-- Strawberry, Banana & Nutella - $15.00
-- Nutella & Peanut Butter - $15.00
-- Nutella & Banana - $15.00
-- Peanut Butter & Banana - $15.00
-- Strawberry & Banana - $15.00
-- Strawberry - $15.00
+- Strawberry
+- Strawberry & Banana
+- Strawberry, Banana & Nutella
+- Banana & Nutella
+- Strawberry Nutella
+- Nutella
+- PB & Banana
+- Pineapple Upside Down Cake
 - Plain - $13.00
 
 ### DRINKS
