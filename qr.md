@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome to Blue Jay's Bistro!
-permalink: /
+permalink: /qr
 ---
 
 <img src="/assets/images/logo-white.svg" alt="Blue Jays Bistro: A Culinary Experience" height="200" class="logo" />
