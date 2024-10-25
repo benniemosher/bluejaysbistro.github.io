@@ -223,8 +223,6 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.25.1)
-    net-http (0.4.1)
-      uri
     nokogiri (1.16.7-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
@@ -234,7 +232,7 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.1.1)
+    public_suffix (4.0.7)
     racc (1.8.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
@@ -266,7 +264,6 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
-    uri (0.13.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -274,7 +271,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 232)
+  github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed
   jekyll-minifier
