@@ -1,8 +1,9 @@
 services:
-  web:
-    build: .
-    command: bundle exec jekyll serve
+  jekyll:
+    image: jekyll/jekyll
     volumes:
-      - .:/app
+      - .:/srv/jekyll
+      - ./vendor/bundle/:/usr/local/bundle
     ports:
       - 4000:4000
+    command: jekyll serve --force_polling --drafts
