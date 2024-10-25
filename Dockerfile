@@ -16,5 +16,5 @@ COPY Gemfile.lock .
 # Install the gems  (re-run `docker-compose build` when the Gemfile is changed)
 RUN bundle
 
-# EXPOSE 4000
+EXPOSE 4000
 
