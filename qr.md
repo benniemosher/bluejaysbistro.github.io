@@ -16,8 +16,8 @@ forward to serving you!
 ## Find Us Online
 
 <ul class="social">
-- <a href="https://facebook.com/bluejaysbistro" target="_blank" rel="noopener"><img src="/assets/images/icon-facebook.png" alt="Facebook" height="36" /></a>
-- <a href="https://www.instagram.com/bluejaysbistro" target="_blank" rel="noopener"><img src="/assets/images/icon-instagram.png" alt="Instagram" height="36" /></a>
+<li><a href="https://facebook.com/bluejaysbistro" target="_blank" rel="noopener"><img src="/assets/images/icon-facebook.png" alt="Facebook" height="36" /></a></li>
+<li><a href="https://www.instagram.com/bluejaysbistro" target="_blank" rel="noopener"><img src="/assets/images/icon-instagram.png" alt="Instagram" height="36" /></a></li>
 </ul>
 
 ## Some of Our Menu
