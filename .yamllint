@@ -1,0 +1,8 @@
+extends: default
+rules:
+  line-length:
+    # A digest-pinned value (image: repo:tag@sha256:<64 hex>) can't be wrapped.
+    allow-non-breakable-inline-mappings: true
+    # Pinned actions (uses: owner/repo@<sha>  # vX.Y.Z) run past 80 columns.
+    ignore: |
+      .github/workflows/
