@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '~> 3'
+ruby '3.5.0-preview1'
 
 group :jekyll_plugins do
   gem 'jekyll-archives'

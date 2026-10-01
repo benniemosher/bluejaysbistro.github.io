@@ -1,6 +1,6 @@
 services:
   jekyll:
-    image: jekyll/jekyll
+    image: jekyll/jekyll@sha256:15fa79ee6293d7970fe2456fa64ea64bbaf308617b2841e73d9e58cfe09445b6
     volumes:
       - .:/srv/jekyll
       - ./vendor/bundle/:/usr/local/bundle
