@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "svglint": "^4.1.2"
+    "svglint": "4.2.1"
   }
 }
