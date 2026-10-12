@@ -1,0 +1,6 @@
+---
+# Two spaces before an inline comment, matching yamllint and the
+# "rev: <sha>  # frozen: vX.Y.Z" pins Renovate writes.
+formatter:
+  type: basic
+  pad_line_comments: 2
